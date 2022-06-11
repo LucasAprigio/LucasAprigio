@@ -1,6 +1,6 @@
 ### HELLO, I'AM AGRICULA :) 👋
 
-- Programador Web
+- Desenvolvedor Web
 - Programador
 - Montador Reparador de Computadores
 

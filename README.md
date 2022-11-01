@@ -9,7 +9,7 @@
  
   <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=LucasAprigio&show_icons=true&theme=radical&include_all_commits=true&count_private=true%22/%3E">
   
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAprigio&layout=compact&langs_count=7&theme=radical">
+ <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAprigio&layout=compact&langs_count=7&theme=radical">
 </div> 
 
 

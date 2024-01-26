@@ -1,6 +1,12 @@
 ### Eae :) 👋
 
-Olá DEV´s! meu nome é Lucas Aprigio de Oliveira, sou profissional Técnico em Manutenção e Suporte em Informática, tenho experiência em hardware e software, atuando com montagens e reparos de desktops, notebook e cabeamento estruturado, tenho experiência em desenvolvimento Web
+Olá DEV´s! meu nome é Lucas Aprigio de Oliveira, sSou um profissional
+técnico de Informática com expertise tanto em hardware,
+atuando como montador e reparador de PCs, quanto em
+software, desempenhando funções de programador e
+desenvolvedor web. Tenho uma paixão pelo aprendizado
+contínuo e estou em busca de oportunidades para aplicar
+minha sólida formação e habilidades.
 
 
   <div style="display: inline_block"><br>

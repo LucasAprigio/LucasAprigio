@@ -1,4 +1,4 @@
-### Eae Dev´s :) 👋
+### Eae Dev´s 👋
 
 meu nome é Lucas Aprigio de Oliveira, sou um profissional <br/>
 técnico de Informática com expertise tanto em hardware, 

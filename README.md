@@ -1,15 +1,17 @@
-### Eae :) 👋
+### Eae Dev´s :) 👋
 
-Olá DEV´s! meu nome é Lucas Aprigio de Oliveira, sSou um profissional
-técnico de Informática com expertise tanto em hardware,
-atuando como montador e reparador de PCs, quanto em
-software, desempenhando funções de programador e
-desenvolvedor web. Tenho uma paixão pelo aprendizado
-contínuo e estou em busca de oportunidades para aplicar
-minha sólida formação e habilidades.
+meu nome é Lucas Aprigio de Oliveira, sou um profissional <br/>
+técnico de Informática com expertise tanto em hardware, 
+atuando como montador e reparador de PCs, quanto em <br/>
+software, desempenhando funções de programador e 
+desenvolvedor web. Tenho uma paixão pelo aprendizado <br/>
+contínuo e estou em busca de oportunidades para aplicar 
+minha sólida formação e habilidades. <br/>
 
+--------------------------------------------------------------------
 
-  <div style="display: inline_block"><br>
+ ### Linguagem de Programação que estudo:
+  <div style="display: inline_block">
   <img align= "center" alt= "Lc-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align= "center" alt= "Lc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align= "center" alt= "Lc-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -20,7 +22,6 @@ minha sólida formação e habilidades.
   <img align= "center" alt= "Lc-WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
   <img align= "center" alt= "Lc-Mysql" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
                  
- 
 
   ## 
 

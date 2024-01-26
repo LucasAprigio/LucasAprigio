@@ -24,7 +24,7 @@ minha sólida formação e habilidades. <br/>
                  
 
   ## 
-
+###  Entre em Contado Comigo 👇
  <div> 
 <a href="https://instagram.com/_lczn" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 <a href = "mailto:lucasaprigio335@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

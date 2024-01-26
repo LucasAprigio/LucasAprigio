@@ -1,11 +1,6 @@
 ### Eae :) 👋
 
-- Desenvolvedor Web
-- Programador
-- Montador Reparador de Computadores
-
-
-
+Olá DEV´s! meu nome é Lucas Aprigio de Oliveira, sou profissional Técnico em Manutenção e Suporte em Informática, tenho experiência em hardware e software, atuando com montagens e reparos de desktops, notebook e cabeamento estruturado, tenho experiência em desenvolvimento Web
 
 
   <div style="display: inline_block"><br>

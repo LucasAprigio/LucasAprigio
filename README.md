@@ -21,6 +21,8 @@ minha sólida formação e habilidades. <br/>
   <img align= "center" alt= "Lc-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align= "center" alt= "Lc-WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
   <img align= "center" alt= "Lc-Mysql" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+
+--------------------------------------------------------------------
    
 ### ⚙️ GitHub Analytics
 

@@ -22,8 +22,10 @@ minha sólida formação e habilidades. <br/>
   <img align= "center" alt= "Lc-WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
   <img align= "center" alt= "Lc-Mysql" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
                  
+## ⭐ GitHub Stats
 
-  ## 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasAprigio_icons=true)
+
 ###  Entre em Contado Comigo 👇
  <div> 
 <a href="https://instagram.com/_lczn" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 

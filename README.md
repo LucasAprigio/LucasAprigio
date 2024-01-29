@@ -24,7 +24,7 @@ minha sólida formação e habilidades. <br/>
                  
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasAprigio_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasAprigio&show__icons=true)
 
 ###  Entre em Contado Comigo 👇
  <div> 

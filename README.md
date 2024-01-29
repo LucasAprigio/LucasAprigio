@@ -1,5 +1,5 @@
 ### Eae Dev´s 👋
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 meu nome é Lucas Aprigio de Oliveira, sou um profissional <br/>
 técnico de Informática com expertise tanto em hardware, 
 atuando como montador e reparador de PCs, quanto em <br/>

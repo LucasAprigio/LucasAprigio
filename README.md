@@ -1,16 +1,16 @@
-### Eae Dev´s 👋
+### Hello Dev´s 👋
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-meu nome é Lucas Aprigio de Oliveira, sou um profissional <br/>
-técnico de Informática com expertise tanto em hardware, 
-atuando como montador e reparador de PCs, quanto em <br/>
-software, desempenhando funções de programador e 
-desenvolvedor web. Tenho uma paixão pelo aprendizado <br/>
-contínuo e estou em busca de oportunidades para aplicar 
-minha sólida formação e habilidades. <br/>
+my name is Lucas Aprigio de Oliveira, I am a professional <br/>
+IT technician with expertise in both hardware, 
+working as a PC assembler and repairer, as well as in <br/>
+software, performing functions of programmer and 
+web developer. I have a passion for learning <br/>
+continuous and I am looking for opportunities to apply 
+my solid training and skills. <br/>
 
 --------------------------------------------------------------------
 
- ### Minhas Skills:
+ ### My Skills:
   <div style="display: inline_block">
   <img align= "center" alt= "Lc-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align= "center" alt= "Lc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
